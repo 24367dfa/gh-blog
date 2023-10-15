@@ -22,17 +22,22 @@ Warum sich eine Mitgliedschaft lohnt:
 - Beitrag zum dauerhaften Bestehen und Ausbau des Hackerspaces
 - Mitgliedsbeiträge sind steuerlich absetzbar (wir sind gemeinnützig)
 
-## Aktives Mitglied werden
+### Aktives Mitglied werden
 
 Die aktive Mitgliedschaft ist für natürliche Personen (aka Menschen) möglich. Der monatliche Beitrag beträgt 30,- Euro. Der Beitrag kann (z.B. für Schüler und Studenten) ermäßigt werden und beträgt minimal 10,- Euro im Monat oder freiwillig mehr.
 
 - [Aufnahmeantrag für aktive Mitglieder](https://github.com/netz39/Mitgliedsantraege/releases/latest/download/aufnahmeantrag-aktiv.pdf)
 - [SEPA-Mandat für den Bankeinzug](https://github.com/netz39/Mitgliedsantraege/releases/latest/download/einzug.pdf)
 
-## Fördermitglied werden
+### Fördermitglied werden
 
 Wer bloß die Idee des Hackerspace gut findet und ihn selbst gar nicht wirklich nutzen möchte, kann Fördermitglied werden (juristische und natürliche Personen). Fördermitglieder haben kein Stimmrecht auf unserer Mitgliederversammlung und bekommen keine Schließberechtigung für den Verein. Sporadische Nutzung der Räumlichkeiten ist natürlich trotzdem möglich. Die Fördermitgliedschaft für natürliche Personen ist ab 10 Euro/Monat möglich. Für weitere Informationen schreibt bitte eine Email an vorstand(at)netz39.de.
 
 - [Aufnahmeantrag Fördermitglied — natürliche Person](https://github.com/netz39/Mitgliedsantraege/releases/latest/download/aufnahmeantrag-foerder-nat.pdf)
 - [Aufnahmeantrag Fördermitglied — juristische Person](https://github.com/netz39/Mitgliedsantraege/releases/latest/download/aufnahmeantrag-foerder-jur.pdf)
 - [SEPA-Mandat für den Bankeinzug](https://github.com/netz39/Mitgliedsantraege/releases/latest/download/einzug.pdf)
+
+## Vereinssatzung und Ordnungen
+
+- [Vereinssatzung](https://github.com/netz39/Ordnungen/releases/latest/download/satzung.pdf)
+- [Beitrags und Mahnordnung](https://github.com/netz39/Ordnungen/releases/latest/download/Beitrags_und_Mahnordnung.pdf)
